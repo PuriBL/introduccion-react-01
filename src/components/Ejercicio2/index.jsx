@@ -10,3 +10,8 @@ export default function Ejercicio2() {
     </section>
   )
 }
+
+
+
+
+
